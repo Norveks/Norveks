@@ -1,10 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
-I am a new graduated electrical-electronics engineer who is more passionate about coding. During my internship and my study in university, I realised that electrical circuit does not fit with me and then I tried to put myself in this coding adventure. Yet I did not know about which area that I can myself rely on and so I found myself on data analysis. Coding everyday, every hour is not my thing. I need communication and getting up from the seat a little bit and may be that is why working with graphs and analitics sounds more like me. I mostly study on Python and SQL, there is still much to learn... as it always will be.
-
-This repistory will be uploaded due to it is not finisned...
+I am a new graduated electrical-electronics engineer who is more passionate about coding. During my internship and my study in university, I realised that electrical circuit does not fit with me and then I tried to put myself in this coding adventure. Yet I did not know about which area that I can myself rely on and so I found myself on data analysis and web development. Coding everyday, every hour is not my thing. I need communication and getting up from the seat a little bit and may be that is why working with graphs and analitics sounds more like me. I mostly study on Python and SQL, there is still much to learn... as it always will be.
 
 ## Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,html,css,js,cs)](https://skillicons.dev)
+
 
 <!--
 **Norveks/Norveks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
